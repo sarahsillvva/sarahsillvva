@@ -2,8 +2,8 @@
 
 <div align="center">
   
- ### *"Falar é fácil, vamos ao código"*
-           ~Linus Torvalds (adaptado)
+ ### *"Speaking is easy, Show me the code"*
+           Okay let's go to the code 
   
 </div>
   
