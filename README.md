@@ -1,36 +1,75 @@
-# Hi, I'm Sarah Silva👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Sarah%20Silva&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h3 align="center">
+  Backend-focused Full Stack Developer building scalable APIs and real-world solutions
+</h3>
+
+---
+
+## 🎯 About Me
+
+Full Stack Developer focused on JavaScript and TypeScript, working primarily on backend systems with Node.js and scalable architectures based on APIs and microservices.
+
+I have hands-on experience solving real-world problems, including complex integrations, automation workflows, and implementing robust business rules. I approach development with a strong focus on architecture, code quality, and long-term sustainability.
+
+Recently, I led performance improvements in a mobile application during a migration from native code to React Native, refactoring components and replacing inadequate libraries. This significantly reduced memory consumption and improved overall application stability.
+
+I actively contribute to designing and evolving technical solutions, including building systems from scratch using microservices and asynchronous communication. I’m comfortable turning complex scenarios into practical implementations while balancing technical quality and business needs.
+
+I’m also the creator of **Poupa AI**, a project that started as an experiment and evolved into a real product. It helps users manage finances and improve financial awareness:
+👉 https://poupa-ai-org.vercel.app/
+
+I’m known for clear communication and strong collaboration, often acting as a reference for implementations and helping teams stay aligned and continuously improving.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 OS Manager
+
+📌 https://github.com/sarahsillvva/OS-Manager
+
+System focused on service order management, designed to handle real operational workflows with structured business rules and scalable backend logic.
+
+---
+
+### 🤖 Poupa AI
+
+📌 https://github.com/sarahsillvva/PoupaAI
+
+Financial management application focused on helping users track expenses and build better financial habits. Built with evolving architecture and increasing focus on code quality and product maturity.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
- ### *"Speaking is easy, Show me the code"*
-           Okay let's go to the code 
-  
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,cs,java,spring,html,css,sass&theme=dark" />
 </div>
-  
-#
+
+
+## 📬 Contact
+
 <div align="center">
-  <a href="https://github.com/sarahsillvva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahsillvva&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahsillvva&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-   
- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg?short_path=2962419">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+
+<a href="mailto:sarahdev.silva@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarah-silva-a8971b185/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
-  
-  ##
-<div> 
-  <a href = "mailto:sarahdev.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sarah-silva-a8971b185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-  ![Snake animation](https://github.com/sarahsillvva/sarahsillvva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## ⚡ Interests
+
+* Software Architecture
+* Microservices
+* Event-driven systems
+* Artificial Intelligence
+* Scalable backend systems
